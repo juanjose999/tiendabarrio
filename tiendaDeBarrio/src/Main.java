@@ -79,7 +79,7 @@ public class Main {
         while (continuar) {
             System.out.println("1. Agregar producto");
             System.out.println("2. eliminar prducto");
-            System.out.println("3. Realizar venta");
+            System.out.println("3. Realizar vent");
             System.out.println("4. Ver todos los productos");
             System.out.println("5. Salir");
             System.out.print("Ingrese una opción (1-5): ");
